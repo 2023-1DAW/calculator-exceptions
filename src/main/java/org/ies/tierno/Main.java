@@ -16,6 +16,5 @@ public class Main {
         Calculator calculator = new Calculator();
         CalculatorApp calculatorApp = new CalculatorApp(scanner, calculator);
         calculatorApp.run();
-
     }
 }
